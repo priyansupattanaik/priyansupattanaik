@@ -19,7 +19,6 @@
 - Building production-grade full stack apps and AI/ML systems
 - Worked on LLM fine-tuning, RAG pipelines, and agentic AI
 - Published research on retrodictive reasoning with TinyLlama
-- Stack: Python · TypeScript · React · Next.js · FastAPI · Node.js · TensorFlow · Docker
 
 ---
 

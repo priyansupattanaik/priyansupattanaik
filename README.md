@@ -1,7 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0EA5E9&height=180&section=header&text=Priyansu%20Pattanaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20GenAI%20%26%20ML%20Engineer&descAlignY=54&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Priyansu%20Pattanaik&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20GenAI%20%26%20ML%20Engineer&descAlignY=54&descSize=16)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&width=600&center=true&vCenter=true&lines=Full+Stack+Developer+%7C+GenAI+Engineer;RAG+Pipelines+%7C+LLM+Fine-tuning+%7C+Agentic+AI;React+%7C+Next.js+%7C+FastAPI+%7C+Node.js;Building+real-world+AI+products" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=7C3AED&width=600&center=true&vCenter=true&lines=Full+Stack+Developer+%7C+GenAI+Engineer;RAG+Pipelines+%7C+LLM+Fine-tuning+%7C+Agentic+AI;React+%7C+Next.js+%7C+FastAPI+%7C+Node.js;TensorFlow+%7C+Python+%7C+Docker+%7C+MongoDB;Building+real-world+AI+products" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=priyansupattanaik&color=7c3aed&style=flat-square&label=Profile+Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/priyansupattanaik?style=flat-square&color=7c3aed&label=Followers" />
 </p>
 
 ---
@@ -15,6 +21,8 @@
 
 ---
 
+### GitHub Stats
+
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyansupattanaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansupattanaik&layout=compact&theme=tokyonight&hide_border=true" />
@@ -26,7 +34,15 @@
 
 ---
 
-### Contribution Graph
+### Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=priyansupattanaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+</p>
+
+---
+
+### Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake-dark.svg" />
@@ -36,9 +52,19 @@
 
 ---
 
+### Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansupattanaik&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
 ### Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,tensorflow,docker,mongodb,postgres&perline=6)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,tensorflow,docker,mongodb,postgres&perline=6" />
+</p>
 
 ---
 
@@ -53,8 +79,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyansupattanaik&color=7c3aed&style=flat-square&label=Profile+Views" />
-</p>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:0EA5E9&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)

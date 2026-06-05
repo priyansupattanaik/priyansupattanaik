@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyansupattanaik&color=7c3aed&style=flat-square&label=Profile+Views" />
   &nbsp;
-  <img src="https://img.shields.io/github/followers/priyansupattanaik?style=flat-square&color=7c3aed&label=Followers" />
+  <img src="https://img.shields.io/github/followers/priyansupattanaik?style=flat-square&color=7c3aed&label=Followers&logo=github" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/priyansupattanaik?style=flat-square&color=2563eb&label=Stars&logo=github" />
 </p>
 
 ---
@@ -21,23 +23,29 @@
 
 ---
 
-### GitHub Stats
+### Tech Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyansupattanaik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansupattanaik&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=priyansupattanaik&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,tensorflow,docker,mongodb,postgres&perline=6" />
 </p>
 
 ---
 
-### Trophies
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyansupattanaik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML%20%2F%20GenAI-7c3aed?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stack-Full%20Stack-2563eb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Research-IEEE%20Published-0ea5e9?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expert-7c3aed?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Advanced-2563eb?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Advanced-0ea5e9?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Advanced-16a34a?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-Intermediate-f97316?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Intermediate-2563eb?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 ---
@@ -49,22 +57,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
 </picture>
-
----
-
-### Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansupattanaik&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,nodejs,fastapi,flask,tensorflow,docker,mongodb,postgres&perline=6" />
-</p>
 
 ---
 

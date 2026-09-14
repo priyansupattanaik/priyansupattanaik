@@ -84,40 +84,87 @@
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <!-- Obsidian Gold Streak Stats -->
+  <!-- Obsidian Gold Streak Stats (Active & Verified) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansupattanaik&background=0A0A0A&border=D97706&stroke=F59E0B&ring=FDE047&fire=F59E0B&currStreakNum=FDE047&sideNums=FFFFFF&sideLabels=F59E0B&currStreakLabel=FDE047&dates=9CA3AF" alt="GitHub Streak" />
-  <br/><br/>
-  <!-- Obsidian Gold GitHub Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansupattanaik&show_icons=true&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansupattanaik&layout=compact&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB" alt="Top Languages" />
 </div>
 
 ---
 
-### 🚀 Spotlight & Interactive Repositories
+### 🚀 Spotlight & Featured Repositories
 
-<div align="center">
-  <a href="https://github.com/priyansupattanaik/career-copilot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=career-copilot&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="career-copilot" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/priyansupattanaik/visionguard-VideoRAG">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=visionguard-VideoRAG&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="visionguard-VideoRAG" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/priyansupattanaik/aegis-node">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=aegis-node&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="aegis-node" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/priyansupattanaik/promptLAB">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=promptLAB&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="promptLAB" />
-  </a>
-  <br/><br/>
-  <a href="https://github.com/priyansupattanaik/priyansupattanaik">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=priyansupattanaik&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="portfolio" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/priyansupattanaik/career-copilot">
+          <img src="https://img.shields.io/badge/career--copilot-0A0A0A?style=for-the-badge&logo=nextdotjs&logoColor=F59E0B" />
+        </a>
+      </h3>
+      <p><b>Next-Gen AI Career Copilot</b> — Autonomous career guidance, resume analyzer & interview prep system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/GenAI-F59E0B?style=flat-square" />
+      </p>
+      <a href="https://github.com/priyansupattanaik/career-copilot"><b>🔗 View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/priyansupattanaik/visionguard-VideoRAG">
+          <img src="https://img.shields.io/badge/visionguard--VideoRAG-0A0A0A?style=for-the-badge&logo=python&logoColor=F59E0B" />
+        </a>
+      </h3>
+      <p><b>Video Retrieval-Augmented Generation</b> — Multimodal frame retrieval & video intelligence system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Video_RAG-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Multimodal-0A0A0A?style=flat-square" />
+      </p>
+      <a href="https://github.com/priyansupattanaik/visionguard-VideoRAG"><b>🔗 View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/priyansupattanaik/aegis-node">
+          <img src="https://img.shields.io/badge/aegis--node-0A0A0A?style=for-the-badge&logo=nodedotjs&logoColor=F59E0B" />
+        </a>
+      </h3>
+      <p><b>Lightweight Node.js Runtime Guard</b> — Production npm package for real-time security & monitoring.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security-10B981?style=flat-square" />
+      </p>
+      <a href="https://github.com/priyansupattanaik/aegis-node"><b>🔗 View Repository →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="left">
+        <a href="https://github.com/priyansupattanaik/promptLAB">
+          <img src="https://img.shields.io/badge/promptLAB-0A0A0A?style=for-the-badge&logo=openai&logoColor=F59E0B" />
+        </a>
+      </h3>
+      <p><b>Prompt Engineering & Benchmark Suite</b> — Systematic evaluation and automated prompt tuning workbench.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/LLMs-F59E0B?style=flat-square" />
+        <img src="https://img.shields.io/badge/Eval-6366F1?style=flat-square" />
+      </p>
+      <a href="https://github.com/priyansupattanaik/promptLAB"><b>🔗 View Repository →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <h3>
+        <a href="https://github.com/priyansupattanaik/priyansupattanaik">
+          <img src="https://img.shields.io/badge/Portfolio%20%26%20Profile-0A0A0A?style=for-the-badge&logo=github&logoColor=F59E0B" />
+        </a>
+      </h3>
+      <p><b>Personal Engineering Showcase & Config</b> — Custom automated contribution pipeline and theme engine.</p>
+      <a href="https://github.com/priyansupattanaik/priyansupattanaik"><b>🔗 View Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -155,15 +202,9 @@
 
 ---
 
-### 🌐 3D Activity Landscape & Contribution Dynamics
+### 🐍 Contribution Dynamics
 
 <div align="center">
-  <!-- 3D Isometric Contribution Graph -->
-  <img src="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.onerror=null; this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyansupattanaik&theme=radical'" alt="3D Contribution Graph" width="95%" />
-  
-  <br/><br/>
-  
-  <!-- Interactive Golden Snake Animation -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />

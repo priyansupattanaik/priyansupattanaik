@@ -95,26 +95,81 @@
 
 ---
 
-### 🐍 Contribution Dynamics
+### 🚀 Spotlight & Interactive Repositories
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
-  </picture>
+  <a href="https://github.com/priyansupattanaik/career-copilot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=career-copilot&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="career-copilot" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/priyansupattanaik/visionguard-VideoRAG">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=visionguard-VideoRAG&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="visionguard-VideoRAG" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/priyansupattanaik/aegis-node">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=aegis-node&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="aegis-node" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/priyansupattanaik/promptLAB">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=promptLAB&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="promptLAB" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/priyansupattanaik/priyansupattanaik">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=priyansupattanaik&repo=priyansupattanaik&theme=radical&bg_color=0A0A0A&border_color=D97706&title_color=F59E0B&text_color=E5E7EB&icon_color=FDE047" alt="portfolio" />
+  </a>
 </div>
+
+<br/>
+
+<details>
+  <summary><b>📚 Published Research & Additional Projects (Click to expand)</b></summary>
+  <br/>
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Highlight / Domain</th>
+      <th>Tech Stack</th>
+    </tr>
+    <tr>
+      <td>🧠 <a href="https://github.com/priyansupattanaik/ChronoMind"><b>ChronoMind</b></a></td>
+      <td>Fine-tuned TinyLlama-1.1B for retrodictive reasoning · <b>IEEE Published Paper</b></td>
+      <td><code>LoRA</code> <code>FastAPI</code> <code>ChromaDB</code> <code>Next.js</code></td>
+    </tr>
+    <tr>
+      <td>📄 <a href="https://github.com/priyansupattanaik/ResuScanner.AI"><b>ResuScanner.AI</b></a></td>
+      <td>Production RAG pipeline with Llama-3 & vector semantic search</td>
+      <td><code>RAG</code> <code>Llama-3</code> <code>FastAPI</code> <code>React</code></td>
+    </tr>
+    <tr>
+      <td>🌐 <a href="https://github.com/priyansupattanaik/Augur"><b>Augur</b></a></td>
+      <td>Civil unrest predictive warning engine using graph network dynamics</td>
+      <td><code>NetworkX</code> <code>FastAPI</code> <code>React</code></td>
+    </tr>
+    <tr>
+      <td>🩺 <a href="https://github.com/priyansupattanaik/VitaminDetect"><b>Vitamin Deficiency Detector</b></a></td>
+      <td>Clinical diagnosis application uniting InceptionV3 and Llama-3</td>
+      <td><code>TensorFlow</code> <code>Flask</code> <code>Llama-3</code></td>
+    </tr>
+  </table>
+</details>
 
 ---
 
-### 🏆 Spotlight Research & Featured Projects
+### 🌐 3D Activity Landscape & Contribution Dynamics
 
-| Project | Specialization & Focus | Tech Stack |
-|:---|:---|:---|
-| 🧠 [**ChronoMind**](https://github.com/priyansupattanaik/ChronoMind) | Fine-tuned TinyLlama-1.1B for retrodictive reasoning · **IEEE Published Paper** | `LoRA` `FastAPI` `ChromaDB` `Next.js` |
-| 📄 [**ResuScanner.AI**](https://github.com/priyansupattanaik/ResuScanner.AI) | Production RAG pipeline with Llama-3 & vector semantic search | `RAG` `Llama-3` `FastAPI` `React` |
-| 🌐 [**Augur**](https://github.com/priyansupattanaik/Augur) | Civil unrest predictive warning engine using graph network dynamics | `NetworkX` `FastAPI` `React` |
-| 🩺 [**Vitamin Deficiency Detector**](https://github.com/priyansupattanaik/VitaminDetect) | Clinical diagnosis application uniting InceptionV3 and Llama-3 | `TensorFlow` `Flask` `Llama-3` |
+<div align="center">
+  <!-- 3D Isometric Contribution Graph -->
+  <img src="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.onerror=null; this.src='https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priyansupattanaik&theme=radical'" alt="3D Contribution Graph" width="95%" />
+  
+  <br/><br/>
+  
+  <!-- Interactive Golden Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/priyansupattanaik/priyansupattanaik/output/github-snake.svg" />
+  </picture>
+</div>
 
 ---
 

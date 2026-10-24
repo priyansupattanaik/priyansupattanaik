@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="72" viewBox="0 0 1280 72" role="img" aria-label="About">
+<defs><linearGradient id="r" x1="0" x2="1"><stop offset="0" stop-color="#59AAF8"/><stop offset=".35" stop-color="#59AAF8" stop-opacity=".35"/><stop offset="1" stop-color="#59AAF8" stop-opacity="0"/></linearGradient></defs>
+<style>.m{font-family:'Geist Mono','JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.s{font-family:'Geist','Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.rule{transform-origin:left;animation:draw 1.2s cubic-bezier(0.22,1,0.36,1) both}@keyframes draw{from{transform:scaleX(0)}}
+.dot{animation:run 4s cubic-bezier(0.22,1,0.36,1) infinite}@keyframes run{0%{transform:translateX(0);opacity:0}10%{opacity:1}90%{opacity:1}100%{transform:translateX(900px);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.cover{display:none}.rise{opacity:1}}</style>
+<text x="2" y="40" class="m" font-size="16" fill="#59AAF8">01</text>
+<text x="44" y="42" class="s" font-size="30" font-weight="600" letter-spacing="-.6" fill="#F4F5F7">About</text>
+<rect class="rule" x="2" y="60" width="1276" height="1.5" fill="url(#r)"/>
+<circle class="dot" cx="4" cy="60.75" r="3" fill="#59AAF8"/>
+</svg>

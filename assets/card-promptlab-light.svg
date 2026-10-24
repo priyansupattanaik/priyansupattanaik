@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="300" viewBox="0 0 640 300" role="img" aria-label="Prompt LAB: Checks whether a coding prompt is aligned with the open project, estimates the extra tokens a vague prompt would spend, and rewrites it against real files and symbols.">
+<defs><radialGradient id="g" cx="100%" cy="0%" r="75%"><stop offset="0" stop-color="#0B66D6" stop-opacity=".22"/><stop offset="1" stop-color="#0B66D6" stop-opacity="0"/></radialGradient>
+<linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#101215" stop-opacity="0"/><stop offset=".5" stop-color="#101215" stop-opacity=".07"/><stop offset="1" stop-color="#101215" stop-opacity="0"/></linearGradient>
+<clipPath id="k"><rect x="1" y="1" width="638" height="298" rx="16"/></clipPath></defs>
+<style>.m{font-family:'Geist Mono','JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.s{font-family:'Geist','Inter','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Arial,sans-serif}
+.in{animation:in .8s cubic-bezier(0.22,1,0.36,1) 0.34s both}@keyframes in{from{transform:translateY(10px)}to{transform:none}}
+.sh{animation:sh 7s ease-in-out 1.8s infinite}@keyframes sh{0%,60%{transform:translateX(-700px)}100%{transform:translateX(700px)}}
+.p{transform-box:fill-box;transform-origin:center;animation:p 2.4s cubic-bezier(0.22,1,0.36,1) infinite}@keyframes p{0%{transform:scale(1);opacity:.9}70%,100%{transform:scale(2.6);opacity:0}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}.in{opacity:1}.sh{display:none}}</style>
+<g class="in"><g clip-path="url(#k)">
+<rect width="640" height="300" fill="#FFFFFF"/><rect width="640" height="300" fill="url(#g)"/>
+<rect class="sh" x="0" y="0" width="240" height="300" fill="url(#sh)" transform="skewX(-20)"/>
+</g>
+<rect x="1" y="1" width="638" height="298" rx="16" fill="none" stroke="#DDE0E4"/>
+<text x="32" y="48" class="m" font-size="13" fill="#0B66D6">03</text>
+<circle class="p" cx="604" cy="42" r="5" fill="none" stroke="#0B66D6"/><circle cx="604" cy="42" r="4" fill="#0B66D6"/>
+<text x="32" y="80" class="s" font-size="26" font-weight="600" letter-spacing="-.5" fill="#101215">Prompt LAB</text>
+<rect x="32" y="96" width="67" height="24" rx="12" fill="#F9FAFB" stroke="#DDE0E4"/><text x="42" y="112.5" class="m" font-size="13" fill="#545860">Python</text><text x="32" y="154" class="s" font-size="16" fill="#545860">Checks whether a coding prompt is aligned with the open</text><text x="32" y="178" class="s" font-size="16" fill="#545860">project, estimates the extra tokens a vague prompt would</text><text x="32" y="202" class="s" font-size="16" fill="#545860">spend, and rewrites it against real files and symbols.</text>
+<path d="M32 254h576" stroke="#DDE0E4"/>
+<text x="32" y="280" class="m" font-size="12.5" fill="#6A6F77">github.com/priyansupattanaik/promptLAB</text>
+<text x="608" y="280" text-anchor="end" class="m" font-size="14" fill="#0B66D6">↗</text>
+</g></svg>
